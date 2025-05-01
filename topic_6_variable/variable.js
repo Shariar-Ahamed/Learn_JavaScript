@@ -1,5 +1,5 @@
-40
-// vary+able  = variable
+var sugerPrice = 50;    //camel case
 var saltPrice = 50;
 
-var age = 22;
+// var 123!@-sugerPrice = 50;   Wrong Way
+// var saltPrice123 = 50;       Right Way
