@@ -65,10 +65,10 @@ Learn_JavaScript/
 4. Modify the code, test it, and learn by experimenting!
 
 <h3>🎯 Why This Repository?</h3>
-✅ Beginner-friendly examples
-✅ Structured folders for each topic
-✅ Practical examples & mini projects
-✅ Easy to navigate and revise
+✅ Beginner-friendly examples  <br>
+✅ Structured folders for each topic  <br>
+✅ Practical examples & mini projects  <br>
+✅ Easy to navigate and revise  <br>
 ✅ Great for practice and interviews
 
 <h1>🌟 Contributions & Feedback</h3>
