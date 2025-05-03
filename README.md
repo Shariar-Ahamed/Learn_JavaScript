@@ -77,6 +77,6 @@ Feel free to open an issue if you have any ideas or want to report something.
 
 
 <h3>**📧 Contact Me**</h3>
-If you have any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ShahriarTbc/Learn_JavaScript/issues).
-
+If you have any queries or suggestions, feel free to reach out via <br> [GitHub Issues](https://github.com/ShahriarTbc/Learn_JavaScript/issues).
+<br>
 Happy Learning and Coding! ✨.
