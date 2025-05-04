@@ -17,7 +17,6 @@ console.log(name);
 
 
 
-
 /**** Remove the first element of an array using shift() method ****/ 
 
 // shift() (Remove from the first of the array)
@@ -34,3 +33,18 @@ name.shift();
 name.shift();
 
 console.log(name)
+
+
+
+// **************************************************************************** //
+// Sort an array using sort() method
+var x = [4, 2, 1, 5, 7, 9, 3];
+x.sort();
+
+console.log(x);
+
+
+var name = ['Rakib', "Camrul", "Shamim", 'Aman'];
+name.sort();
+
+console.log(name);
