@@ -7,4 +7,4 @@ var public5 = 500;
 
 var publics = [50, 100, 300, 400, 500];
 var friendsAge = [15, 18, 22, 11, 30];
-var friendsName = ['Rakib', "Rifat", "Shamim", 'Farabi']
+var friendsName = ['Rakib', "Rifat", "Shamim", 'Farabi'];

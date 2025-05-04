@@ -30,7 +30,7 @@ document.write(typeof b);
 
 
 /*Boolean*/
-var x = true;
+var x =  true;
 var y = false;
 console.log(x, y);
 

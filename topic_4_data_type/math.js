@@ -9,6 +9,6 @@ console.log("Hello")
    6. Percent %, 
    7. Average 10, 50, 6, 68, 90 ;
    8. Remainder/Modulus  4/3 = .1 ;
-   8. Comparison: 10, 10, 50, 6, 68, 90 ;
-   9. >, <, ==, === ;
+   9. Comparison: 10, 10, 50, 6, 68, 90 ;
+   10. >, <, ==, === ;
 */ 
