@@ -18,10 +18,12 @@
    3. Boolean
    4. Array
    5. Object (Undefined)
-
+   6. Undefined (Undefined)
+   7. Null (Undefined)
+   
 ```````````````````````````````````````````````````````
-   6. Null (Undefined)
-   7. Undefined (Undefined)
+   
+   
    8. Symbol (Undefined)
    9. BigInt (Undefined)
    10. NaN (Undefined)
