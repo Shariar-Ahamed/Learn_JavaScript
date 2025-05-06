@@ -1,4 +1,3 @@
-
 // undefined is a primitive type
 var x; 
 var y; 
@@ -15,4 +14,4 @@ var z = null;
 
 
 console.log(z); // null 
-console.log(typeof z); // object 
+console.log(typeof z); // object
