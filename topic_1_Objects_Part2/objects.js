@@ -21,3 +21,4 @@ console.log(Shariar["lastName"]);
 console.log(Shariar["friends"]);
 console.log(Shariar.friends[1]);
 console.log(Shariar["friends"][1]);
+vzxz
