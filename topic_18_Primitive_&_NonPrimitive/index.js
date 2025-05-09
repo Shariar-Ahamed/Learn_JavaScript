@@ -9,7 +9,6 @@ console.log(newPerson); // Shariar Ahamed
 
 
 
-
 // Non-Primitive Data Types
 var person1 = {name: "Shamim Reza"};
 var newPerson1 =  person1;
