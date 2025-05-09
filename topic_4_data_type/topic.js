@@ -1,5 +1,5 @@
 
-/**  Math operations and data types in JavaScript
+/*  Math operations and data types in JavaScript
 
    1. Number: 10, 5, 20, 68, 70;
    2. Integer:  3, 5, 10, 48, 69;
