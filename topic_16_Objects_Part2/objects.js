@@ -35,13 +35,13 @@ console.log(myObj.nextObj.favColor)
 
 // Dot notation
 var x = myObj.name;
-console.log(x);
-console.log(myObj.name);
+console.log(x);                     // 'Shakib Khan'
+console.log(myObj.name);           // 'Shakib Khan'
 
 
 
 // Square bracket notation
-console.log(myObj["full Name"]);
+console.log(myObj["full Name"]); // 'Shariar Ahamed'
 
 
 
