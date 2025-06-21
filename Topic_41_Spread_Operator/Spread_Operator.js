@@ -7,10 +7,10 @@ let arr1 = [10, 20, 30];
 
 let arr2 = [arr1, 40, 50, 60];
 
-let arr3 = [...arr2, 70, 80, 90];    //... spread operator (Output removes the array brackets)
+let arr3 = [...arr2, 70, 80, 90, ...arr1];    //... spread operator (Output removes the array brackets)
 
 
-console.log(arr3); // [ [ 10, 20, 30 ], 40, 50, 60 ]
+console.log(arr3); // [[10, 20, 30], 40, 50, 60, 70, 80, 90, 10, 20, 30]
 
 
 
