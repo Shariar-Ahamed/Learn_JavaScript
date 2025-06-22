@@ -19,5 +19,4 @@ console.log(sumNumbers1(15, 10)); // Output: 25 (Arrow function syntax)
 //-----------
 
 
-
 // Arrow Function with Implicit Return
