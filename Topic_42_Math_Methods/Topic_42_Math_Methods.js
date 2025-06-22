@@ -14,10 +14,10 @@ console.log(result); // Output: -7
 
 
 result = Math.sign(x);
-console.log(result); // Output: -1  (positive = 1 / number)
+console.log(result); // Output: -1  (positive = 1 / negative = -1 )
 
 result = Math.abs(x);
-console.log(result); // Output: 7.1 (Netative to positive)
+console.log(result); // Output: 7.6 (Netative to positive)
 
 // -------
 
