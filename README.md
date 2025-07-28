@@ -59,7 +59,7 @@ Learn_JavaScript/
 ## 🛠️ How to Use  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShahriarTbc/Learn_JavaScript.git
+   git clone https://github.com/shariar-ahamed/Learn_JavaScript.git
 2. Open the files in VS Code or any preferred code editor.
 3. se Live Server or open .html & .js files in the browser to test JavaScript functionality.
 4. Modify the code, test it, and learn by experimenting!
@@ -77,6 +77,6 @@ Feel free to open an issue if you have any ideas or want to report something.
 
 
 <h3>**📧 Contact Me**</h3>
-If you have any queries or suggestions, feel free to reach out via <br> [GitHub Issues](https://github.com/ShahriarTbc/Learn_JavaScript/issues).
+If you have any queries or suggestions, feel free to reach out via <br> [GitHub Issues](https://github.com/shariar-ahamed/Learn_JavaScript/issues).
 <br>  <br>  <br>
 Happy Learning and Coding! ✨.
