@@ -1,18 +1,31 @@
 // while loop
 
-let count = 0;
+let num = 0;
 
-while (count < 5) {
-    console.log("Hello World : " + count); // Hello World : 0, Hello World : 1, Hello World : 2, Hello World : 3, Hello World : 4
-    console.log(count); // 0 1 2 3 4
-    count++;
+while (num < 5) {
+    console.log("Hello World : ", num); // Hello World : 0, Hello World : 1, Hello World : 2, Hello World : 3, Hello World : 4
+    console.log(num); // 0 1 2 3 4
+    num++;
     
-    // count += 1;
-    // count = count + 1;
-    // count += 2;
-    // count = count + 2;
+    // num += 1;
+    // num = count + 1;
+    // num += 2;
+    // num = count + 2;
 }
 
+// {
+//[console.log("Hello World : " + num);]
+// [console.log("Hello World : ", num);]
+// এক কথায় বললে ভাই:
+
+// ✅ **দুটাই ঠিক**, তবে
+
+// * `,` (comma) দিলে 👉 **value ও type স্পষ্ট বোঝা যায়**
+// * `+` (plus) দিলে 👉 **সবকিছু string এ রূপান্তর হয়**
+
+// 👉 **Debug করার জন্য `,` ভালো**,
+// 👉 **Message বানানোর জন্য `+` ভালো** 😎💯
+//}
 
 
 
