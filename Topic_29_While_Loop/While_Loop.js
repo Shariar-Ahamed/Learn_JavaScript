@@ -7,6 +7,8 @@ while (num < 5) {
     console.log(num); // 0 1 2 3 4
     num++;
     
+    // num++;
+    // num--;
     // num += 1;
     // num = count + 1;
     // num += 2;
