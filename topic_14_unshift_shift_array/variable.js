@@ -24,7 +24,7 @@ var x = [4, 2, 1, 5, 7, 9, 3];
 x.shift();
 x.shift();
 
-console.log(x);
+console.log(x); // [ 1, 5, 7, 9, 3 ]
 
 
 // shift() (Remove from the first of the array)
@@ -32,7 +32,7 @@ var name = ['Rakib', "Rifat", "Shamim", 'Farabi'];
 name.shift();
 name.shift();
 
-console.log(name)
+console.log(name) // [ 'Shamim', 'Farabi' ]
 
 
 
@@ -41,10 +41,10 @@ console.log(name)
 var x = [4, 2, 1, 5, 7, 9, 3];
 x.sort();
 
-console.log(x);
+console.log(x); // Array(7) [ 1, 2, 3, 4, 5, 7, 9 ]
 
 
 var name = ['Rakib', "Camrul", "Shamim", 'Aman'];
 name.sort();
 
-console.log(name);
+console.log(name); //[ 'Aman', 'Camrul', 'Rakib', 'Shamim' ]
