@@ -5,7 +5,7 @@ var x = [4, 2, 1, 5, 7, 9, 3];
 x.unshift(11);
 x.unshift(22);
 
-console.log(x);
+console.log(x); // Array(9) [ 22, 11, 4, 2, 1, 5, 7, 9, 3 ]
 
 
 // unshift() (Add to the fist of the array)
@@ -13,7 +13,7 @@ var name = ['Rakib', "Rifat", "Shamim", 'Farabi'];
 name.unshift("Arif");
 name.unshift("Abdul");
 
-console.log(name);
+console.log(name); // Array(6) [ 'Abdul', 'Arif', 'Rakib', 'Rifat', 'Shamim', 'Farabi' ]
 
 
 
