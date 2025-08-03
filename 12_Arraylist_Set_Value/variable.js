@@ -1,4 +1,4 @@
-// Find the length of the array
+//-----Find the length of the array------
 var number = [50, 80, 77, 45, 90, 100 ];
 console.log(number.length); // 6
 
