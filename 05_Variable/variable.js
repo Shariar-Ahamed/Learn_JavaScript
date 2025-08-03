@@ -1,4 +1,4 @@
-// Variable declaration and initialization
+//----------Variable declaration and initialization--------
 
 var saltPrice = 50;
 var age = 22;
