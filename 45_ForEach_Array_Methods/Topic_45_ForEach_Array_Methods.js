@@ -1,3 +1,5 @@
+//-------ForEach_Array_Methods--------
+
 const heros = ["Allu arjun", "Ram charan", "Prabhas", "Mahesh babu"];
 
 heros.forEach( (hero) => {
