@@ -9,5 +9,4 @@ price /= 2;
 price %= 3;
 price **= 2;
 
-
 console.log(price); // 4
