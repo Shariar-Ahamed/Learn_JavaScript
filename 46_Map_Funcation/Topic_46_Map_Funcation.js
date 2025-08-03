@@ -1,4 +1,4 @@
-// The array work from inside and outside the funcation and gatting output Array Style.
+//The array work from inside and outside the funcation and gatting output Array Style.
 
 const numbers = [1, 2, 3, 4, 5];
 
