@@ -1,4 +1,4 @@
-// &&, ||, !
+//----&&, ||, !----
 
 // && "Will you be my friend? If you want to be my friend, I will give you some conditions."
 // All the condition must be true to be my friend.
