@@ -1,5 +1,4 @@
 // while loop
-
 // Add numbers from 1 to 20
 let count = 1;
 while (count <= 20) {
