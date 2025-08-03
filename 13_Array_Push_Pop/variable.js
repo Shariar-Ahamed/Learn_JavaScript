@@ -1,4 +1,4 @@
-// Find the index position of an element in an array
+//-----Find the index position of an element in an array------
 var friendsName = ["Bablu", 'Kalam', 'Aman', "Salam" ];
 console.log(friendsName.indexOf('Aman'));
 
