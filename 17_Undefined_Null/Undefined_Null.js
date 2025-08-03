@@ -1,4 +1,4 @@
-// undefined is a primitive type
+//--------undefined is a primitive type--------
 var x; 
 var y; 
 y = 5
