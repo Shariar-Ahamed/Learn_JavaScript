@@ -1,4 +1,4 @@
-// True and False Condition 'false' 'true' 'true'
+//-------True and False Condition 'false' 'true' 'true'---------
 console.log(3>5);
 console.log(5>2);
 console.log(5<10);
