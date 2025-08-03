@@ -1,6 +1,6 @@
 // Function Parameter and Argument
 
-function addNumber ( num1, num2 ) {     // Parameter ( num1, num2 )
+function addNumber ( num1, num2 ) {     // Parameters ( num1, num2 )
         console.log( num1 + num2 ); // 30, 80
 }
 
