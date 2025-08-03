@@ -1,4 +1,4 @@
-// Nested conditions are used when we need to check multiple conditions in a single if statement.
+//-------Nested conditions are used when we need to check multiple conditions in a single if statement.--------
 
 // Nested Condition
 let a = 5;
