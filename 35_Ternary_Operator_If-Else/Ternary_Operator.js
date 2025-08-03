@@ -1,5 +1,5 @@
 
-// ----- Normal if else-------
+// ------ Normal if else-------
 let age1 =15;
 let vote1
 
