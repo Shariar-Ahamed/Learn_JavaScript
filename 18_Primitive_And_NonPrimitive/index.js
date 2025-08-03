@@ -1,4 +1,4 @@
-// Primitive Data Types
+//-----Primitive Data Types-------
 var person = "Shariar Ahamed";
 var newPerson =  person;
 person = "Rakib Hassan";
