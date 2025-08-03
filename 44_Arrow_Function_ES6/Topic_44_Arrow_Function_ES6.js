@@ -1,4 +1,4 @@
-// Regular Function Syntax in JavaScript
+//-----Regular Function Syntax in JavaScript------
 
 function sumNumbers(num1, num2) {
   return num1 + num2;
