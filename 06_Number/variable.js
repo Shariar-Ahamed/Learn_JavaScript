@@ -1,4 +1,4 @@
-//Number variable declaration and initialization
+//----Number variable declaration and initialization------
 
 var sugerPrice = 50;    //camel case
 var saltPrice = 50;
