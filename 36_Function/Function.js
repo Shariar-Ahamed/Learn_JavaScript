@@ -1,3 +1,5 @@
+//-------Function-------
+
 function myFunc ( name, country ) {
 
           console.log(" My Name is " + name + " and i am from " + country); 
