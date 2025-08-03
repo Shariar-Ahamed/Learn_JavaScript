@@ -1,4 +1,3 @@
-
 // Console Prnt
 console.log(10+10);
 console.log("Hello World");
