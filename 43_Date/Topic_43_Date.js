@@ -1,4 +1,4 @@
-// Date Object in JavaScript
+//---Date Object in JavaScript------
 
 let myDate = new Date();
 
