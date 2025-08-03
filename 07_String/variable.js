@@ -1,4 +1,4 @@
-// String Variable Declaration and Initialization
+//--------String Variable Declaration and Initialization----------
 
 var girlName = "Luna March";
 var boylName = 'Jon Dalton';
