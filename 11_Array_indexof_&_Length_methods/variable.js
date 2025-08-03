@@ -1,4 +1,4 @@
-// Array declaration and initialization
+//-----Array declaration and initialization------
 var friendsAge = [15, 18, 22, 11, 30, 40];
 console.log(friendsAge); // [ 15, 18, 22, 11, 30, 40 ]
 
