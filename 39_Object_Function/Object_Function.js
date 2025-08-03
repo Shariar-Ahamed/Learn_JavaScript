@@ -1,4 +1,4 @@
-// Example : Object
+//----Example : Object----
 const products = {
         names: "Laptop",
         price: 1000,
