@@ -1,5 +1,4 @@
-
-// Rest Operator
+//------Rest Operator------
 function addToCart (...number) {
         return number;
 }
