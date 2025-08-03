@@ -12,7 +12,6 @@
    9. Comparison: 10, 10, 50, 6, 68, 90 ;
    10. >, <, ==, === ;
 
-
    1. Number
    2. String
    3. Boolean
