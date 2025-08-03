@@ -1,4 +1,4 @@
-/* Type of Print */
+/*---------Type of Print------- */
 var name = "Hero's";
 var name = 'Hero"s';
 var name = "Hero\"s";
