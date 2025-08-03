@@ -1,4 +1,4 @@
-// while loop
+//--------while loop---------
 
 let num = 0;
 
