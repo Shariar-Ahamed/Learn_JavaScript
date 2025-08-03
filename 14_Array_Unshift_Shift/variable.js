@@ -1,4 +1,4 @@
-/**** Add value to the beginning of an array using unshift() method ****/
+/****----Add value to the beginning of an array using unshift() method----****/
 
 // unshift() (Add to the fist of the array)
 var x = [4, 2, 1, 5, 7, 9, 3];
