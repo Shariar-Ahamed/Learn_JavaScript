@@ -1,4 +1,4 @@
-// Do loop
+// ----------Do while loop---------
 
 let a = 1;
 
