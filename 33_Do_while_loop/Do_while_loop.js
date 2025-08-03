@@ -1,5 +1,4 @@
 // ----------Do while loop---------
-
 let a = 1;
 
 do {
