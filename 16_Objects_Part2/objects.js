@@ -1,4 +1,3 @@
-
 // Object creation using object literal syntax
 
 var myObj = {
