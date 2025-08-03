@@ -1,4 +1,4 @@
-// Addition
+//----Addition----
 const eggPrice = 60;
 const saltPrice = 40;
 const cakePrice = 100;
