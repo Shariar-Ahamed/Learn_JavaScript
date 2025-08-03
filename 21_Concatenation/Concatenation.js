@@ -5,7 +5,7 @@ let nickName = "Ripn";
 
 let fullName = firstName + " " + lastName + " " + nickName;
 
-console.log(fullName); // Shariar Ahamed Ripn
+console.log(fullName); // 'Shariar Ahamed Ripn'
 
 
 
@@ -20,6 +20,6 @@ console.log(result); // '102030'
 
 
 console.log(20+"10") // '2010'
-console.log(20-"10") // '10'
-console.log(20*"10") // '200'
-console.log(20/"10") // '2'
+console.log(20-"10") // 10
+console.log(20*"10") // 200
+console.log(20/"10") // 2
