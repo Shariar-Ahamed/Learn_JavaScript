@@ -1,4 +1,4 @@
-/* Array is a special type of variable that can store multiple values in a single variable.
+/*Array is a special type of variable that can store multiple values in a single variable.
 It is a collection of data items stored at contiguous memory locations.
 In JavaScript, arrays are used to store multiple values in a single variable.*/
 
