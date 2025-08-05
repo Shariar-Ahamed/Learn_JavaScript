@@ -1,5 +1,6 @@
-//-------Function-------
+//-------Function-------//
 
+//-----function with string :-----
 function myFunc ( name, country ) {
 
           console.log(" My Name is " + name + " and i am from " + country); 
@@ -8,3 +9,14 @@ function myFunc ( name, country ) {
 
 myFunc("Rakib", "Bangladesh");    // 'My Name is Rakib and i am from Bangladesh'
 myFunc("Jone", "USA");           // 'My Name is Jone and i am from USA'
+
+
+
+
+// -----function with number :-----
+function num (num1, num2){
+    sum = num1+num2;
+    console.log(sum); // 30
+}
+
+num(10,20);
