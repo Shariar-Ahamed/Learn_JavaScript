@@ -14,9 +14,9 @@ myFunc("Jone", "USA");           // 'My Name is Jone and i am from USA'
 
 
 // -----function with number :-----
-function num (num1, num2){
+function addNumber (num1, num2){    //(Parameters,Parameters)
     sum = num1+num2;
     console.log(sum); // 30
 }
 
-num(10,20);
+addNumber(10,20);   // (Arguments,Arguments)
