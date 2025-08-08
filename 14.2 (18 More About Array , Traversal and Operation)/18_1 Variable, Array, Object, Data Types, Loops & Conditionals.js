@@ -4,8 +4,8 @@ const price = 500;
 console.log(price); // Number // 500
 const name = 'Shariar Ahamed Ripon'; // String
 const isPoor = false; // Boolean
-const friends = ['Elon', 'Rakib', 'Islam'] // Array
-const student = { class: 9, name: 'Tom', age: 17, address: 'Dhake'} // Object
+const friends = ['Elon', 'Rakib', 'Islam']; // Array
+const student = { class: 9, name: 'Tom', age: 17, address: 'Dhake'}; // Object
 
 // Conditon
 let num = 500;
@@ -13,7 +13,7 @@ if (price > 1000) {
     console.log("To expencive. not for me.");
 }
 else if (price > 500) {
-    console.log("May be i can buy this.")
+    console.log("May be i can buy this.");
 }
 else {
     console.log("Within my budget."); // 'Within my budget.'
