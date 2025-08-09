@@ -1,4 +1,4 @@
-// -----Sort Array in Ascending & Descending Order (Manual & sort() method)-----
+//?-----Sort Array in Ascending & Descending Order (Manual & sort() method)-----
 
 
 const number = [5, 2, 6, 1, 3, 4];

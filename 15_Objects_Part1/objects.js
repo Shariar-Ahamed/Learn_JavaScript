@@ -1,4 +1,4 @@
-// Object creation using object literal syntax
+//! Object creation using object literal syntax
 
 var Shariar = {
    name: "Shariar",
