@@ -21,7 +21,7 @@ else {
 }
 
 
-//! Loop
+//! --Loop--
 //todo------While------
 let pushUp = 0;
 while(pushUp < 10){
