@@ -1,0 +1,1 @@
+comp_products[0] = 15;
