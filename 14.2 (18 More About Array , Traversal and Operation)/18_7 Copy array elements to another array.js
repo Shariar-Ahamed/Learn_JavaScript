@@ -1,6 +1,6 @@
 //*Copy array elements to another array*
 
-//todo------Copy Number------
+//todo------Copy Number------//
 let  price = 25;
 let comp_price = price;
 
@@ -12,7 +12,7 @@ console.log(comp_price); //? 20
 
 
 
-//todo------Copy String------
+//todo------Copy String------//
 const products = [ 23, 45, 78];
 // const comp_products = products;
 
@@ -28,7 +28,7 @@ console.log(comp_products);    //? [ 23, 45, 78 ]
 
 
 
-//todo------Array.from()------
+//todo------Array.from()------//
 const Numbers = [1, 2, 3, 4];
 const new_numbers = Array.from(Numbers);
 //! const new_numbers = [].concat(Numbers);
