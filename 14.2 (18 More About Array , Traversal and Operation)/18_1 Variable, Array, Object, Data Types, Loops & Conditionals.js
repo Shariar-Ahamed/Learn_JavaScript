@@ -9,7 +9,7 @@ const student = { class: 9, name: 'Tom', age: 17, address: 'Dhake'}; // Object
 
 
 //? Conditon
-let num = 500;
+let number = 500;
 if (price > 1000) {
     console.log("To expencive. not for me.");
 }
