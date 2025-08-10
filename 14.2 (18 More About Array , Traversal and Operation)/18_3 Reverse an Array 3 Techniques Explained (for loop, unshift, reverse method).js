@@ -1,6 +1,6 @@
-//!------Reverse an Array: 3 Techniques Explained (for loop, unshift, reverse method)-----
+//*------Reverse an Array: 3 Techniques Explained (for loop, unshift, reverse method)-----
 
-//?------For loop Shift Meathod------
+//todo------For loop Shift Meathod------
 const numbers = [1, 2, 3, 4, 5];
 
 let reversed = [];
@@ -11,7 +11,7 @@ console.log(reversed);      //*  [5, 4, 3, 2, 1]
 
 
 
-//?------For loop Shift Meathod------
+//todo------For loop Shift Meathod------
 const num = [1, 2, 3, 4, 5];
 
 let reversed0 = [];
@@ -23,7 +23,7 @@ console.log(reversed0)      //* [5, 4, 3, 2, 1]
 
 
 
-//?------Fr loop Push Meathod------
+//todo------For loop Push Meathod------
 const num1 = [1, 2, 3, 4, 5];
 let reversed1 = [];
 
@@ -34,7 +34,7 @@ console.log(reversed1)       //* [5, 4, 3, 2, 1]
 
 
 
-//?------reverse() method------
+//todo------reverse() method------
 const num2 = [1, 2, 3, 4, 5];
 let reversed2 = [];
 num2.reverse();
