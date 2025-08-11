@@ -14,7 +14,7 @@ brushTeeth();
 
 //todo---Math---
 function Number (num1, num2) {
-    sum = (num1 + num2);
+    const sum = (num1 + num2);
     return sum;
 }
 
