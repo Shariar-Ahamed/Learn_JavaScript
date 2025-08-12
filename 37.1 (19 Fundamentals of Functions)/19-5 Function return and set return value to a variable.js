@@ -1,5 +1,7 @@
 //* Function return and set return value to a variable *//
 
+
+//todo------Using return------
 function TenTimes (number) {
     const result = number * 10;
     return result;
