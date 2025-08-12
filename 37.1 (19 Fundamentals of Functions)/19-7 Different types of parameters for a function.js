@@ -34,3 +34,16 @@ function doubleOrTriple(number, doDouble){
 
 console.log(doubleOrTriple(5, true));   //? 10
 console.log(doubleOrTriple(5, false)); //? 15
+
+
+
+
+//todo ------Array------
+function numberOfElements(number){
+    const len = number.length;
+    return len;
+
+}
+
+const result = numberOfElements([23, 45, 12, 53, 35, 12, 56]);
+console.log(result)  //? 7
