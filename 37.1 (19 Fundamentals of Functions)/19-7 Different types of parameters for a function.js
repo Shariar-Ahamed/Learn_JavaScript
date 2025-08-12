@@ -20,6 +20,7 @@ evenSizeString('Dhaka');
 
 
 
+
 //todo ------Number, Booleans------
 function doubleOrTriple(number, doDouble){
     if ( doDouble === true ){
@@ -47,3 +48,15 @@ function numberOfElements(number){
 
 const result = numberOfElements([23, 45, 12, 53, 35, 12, 56]);
 console.log(result)  //? 7
+
+
+
+
+//todo ------Object------
+function getAge(person){
+    const age = person.age;
+    return age;
+}
+
+const bio = getAge({name: 'Sharier', age: 25});
+console.log(bio); //? 25
