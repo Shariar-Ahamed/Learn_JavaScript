@@ -20,7 +20,7 @@ evenSizeString('Dhaka');
 
 
 
-//todo ------evenSizeString------
+//todo ------Number, Booleans------
 function doubleOrTriple(number, doDouble){
     if ( doDouble === true ){
         const result = number * 2;
@@ -32,4 +32,5 @@ function doubleOrTriple(number, doDouble){
     }
 }
 
-console.log(doubleOrTriple(5, true)); //? 10
+console.log(doubleOrTriple(5, true));   //? 10
+console.log(doubleOrTriple(5, false)); //? 15
