@@ -20,4 +20,23 @@ function evenNumberaOnly(numbers) {
 
 const numbers = [1, 34, 14, 52, 16, 53];
 const evensResult = evenNumberaOnly(numbers);
-console.log(evensResult); //? [ 34, 14, 52, 16 ]
+console.log(evensResult);       //? [ 34, 14, 52, 16 ]
+
+
+
+
+//todo ------Showing Sum even numbers------
+function sumOfNumbers(numbers) {
+  let sum = 0;
+  for (const number of numbers) {
+    if (number % 2 === 0) {
+      console.log(number); //? 2, 34, 14, 52, 16
+      sum = sum + number;
+    }
+  }
+  return sum;
+}
+
+const numbers1 = [2, 34, 14, 52, 16, 53];
+const sum = sumOfNumbers(numbers1);
+console.log("Sum of the even number is:", sum);      //? [ 'Sum of the even number is:', 116 ]
