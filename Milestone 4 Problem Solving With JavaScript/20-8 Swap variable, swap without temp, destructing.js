@@ -15,3 +15,15 @@ a = b;
 b = temp;
 
 console.log(a, b); //? [ 7, 5 ]
+
+
+
+//Todo: ------without temp------
+let x = 5;
+let y = 7;
+
+console.log(x, y);  //? [5, 7]
+
+[x, y] = [y, x];
+
+console.log(x,y);  //? [7,5]
