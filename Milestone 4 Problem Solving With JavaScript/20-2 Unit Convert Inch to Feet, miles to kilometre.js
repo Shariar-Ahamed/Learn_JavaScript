@@ -10,3 +10,18 @@ function inchToFeet(inch){
 
 const ShariarHeight = inchToFeet(75);
 console.log(ShariarHeight)  //? 6.25
+
+
+
+//Todo:------inchToFeet------
+function inchToFeet2(inch){
+    const feetFraction = inch / 12;
+    const feetNumber = parseInt(feetFraction);
+    const isRemaining = inch % 12;
+    const result =  feetNumber + ' Feet ' + isRemaining + ' Inch ';
+    return result;
+
+}
+
+const RiponHeight = inchToFeet2(75);
+console.log(RiponHeight)      //? '6 Feet 3 Inch '
