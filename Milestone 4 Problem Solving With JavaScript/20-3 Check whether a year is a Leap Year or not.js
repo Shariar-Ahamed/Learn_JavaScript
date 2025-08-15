@@ -46,3 +46,23 @@ console.log(isLeapYear2(2000));     // true
 console.log(isLeapYear2(1900));    // false
 console.log(isLeapYear2(2024));   // true
 console.log(isLeapYear2(2052));  // true
+
+
+
+
+// Another Way:
+function isLeapYear(year) {
+    if(year % 100 !== 0 && year % 4 === 0){
+        return true;
+    }
+    else if (year % 100 === 0 && year % 400 === 0) {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+
+
+const isResult2 = isLeapYear(2000);
+console.log(isResult2);  //true
