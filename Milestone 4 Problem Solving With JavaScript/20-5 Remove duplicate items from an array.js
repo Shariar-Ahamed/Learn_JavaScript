@@ -21,4 +21,4 @@ const eat = ['abul', 'babul', 'chabul', 'abul', 'babul', 'dabul', 'kabul', 'cabu
 const numbers = [2, 4, 53, 64, 23, 64, 75, 32];
 
 const uniqueArray = noDublicate(eat);
-console.log(uniqueArray);
+console.log(uniqueArray); //? Array(6) [ 'abul', 'babul', 'chabul', 'dabul', 'kabul', 'cabul' ]
