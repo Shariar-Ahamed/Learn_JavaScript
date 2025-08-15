@@ -1,4 +1,4 @@
-//---Date Object in JavaScript------
+//----Date Object in JavaScript------
 
 let myDate = new Date();
 
@@ -8,6 +8,7 @@ console.log(myDate.toDateString());          // Output: 'Sun Jun 22 2025'
 console.log(myDate.getDate());             // Output: 22 (Day of the month)
 console.log(myDate.toLocaleDateString()); // Output: '6/22/2025' (Locale-specific date format)
 console.log(myDate.getMonth());          // Output: 5 (Month is zero-based, so June is 5)
+console.log(myDate.getDay());           // Output: 6
 
 //------------
 
