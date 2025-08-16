@@ -67,4 +67,11 @@ function maxOfThree (num1, num2, num3) {
 }
 
 const finalResult = maxOfThree(56, 89, 168);
-console.log(finalResult)  //? 168
+console.log(finalResult);  //? 168
+
+
+
+
+//Todo:------Simple Method------
+const max = Math.max(12, 100, 52, 65, 55);
+console.log("max using Math.max : ", max)  //? [ 'max using Math.max : ', 100 ]
