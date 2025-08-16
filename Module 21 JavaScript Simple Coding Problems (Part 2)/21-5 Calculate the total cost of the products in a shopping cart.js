@@ -19,3 +19,26 @@ function getShoppingTotal (products){
 
 const totalSum = getShoppingTotal(products);
 console.log(totalSum, 'TK'); //? [ 2300, 'TK' ]
+
+
+
+
+//Todo:------Total shoppoing Sum and quantity:------
+const products2 = [
+    {name: 'shampoo', price: 300, quantity: 2},
+    {name: 'chiruni', price: 100, quantity: 3},
+    {name: 'shirt', price: 700, quantity: 5},
+    {name: 'pant', price: 1200, quantity: 1}
+]
+
+function cartTotal(products2){
+    let total = 0;
+    for(const product2 of products2){
+        const thisProductCost = product2.price * product2.quantity;
+        total = total + thisProductCost; 
+    } 
+    return total;
+}
+
+const shoppongCost = cartTotal(products2);
+console.log(shoppongCost);  //? 5600
