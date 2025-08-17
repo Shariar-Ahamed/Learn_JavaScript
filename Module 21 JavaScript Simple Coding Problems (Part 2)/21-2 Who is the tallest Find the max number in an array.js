@@ -1,4 +1,4 @@
-//* Who is the tallest? Find the max number in an array */
+//NOTE: * Who is the tallest? Find the max number in an array *
 
 
 //Todo:-------Max search------
