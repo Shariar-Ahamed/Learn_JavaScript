@@ -1,11 +1,11 @@
-//NOTE: add and multiplication to calculate wood requirements */
+//NOTE: * add and multiplication to calculate wood requirements *
 
-//! ---Function interesting example---
+//* ---Function interesting example---
 
 /*
-    Chair --> 3 cht
-    Table --> 10 cht
-    Bed --> 50 cht
+*    Chair --> 3 cht
+*    Table --> 10 cht
+*    Bed --> 50 cht
 */
 
 //Todo:------Calculate Total wood------
