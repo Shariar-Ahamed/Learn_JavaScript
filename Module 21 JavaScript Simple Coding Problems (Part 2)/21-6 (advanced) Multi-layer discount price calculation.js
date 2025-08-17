@@ -1,6 +1,6 @@
-//* (advanced) Multi-layer discount price calculation *//
+//NOTE: (advanced) Multi-layer discount price calculation //
 
-/**
+/*
  * upto 100: --> 100
  * more than 101-200: -->90
  * more than 200: --> 70
@@ -23,5 +23,10 @@ function discountPrice(quantity){
     }
 }
 
-const total = discountPrice(101);
-console.log(total);
+const total = discountPrice(190);  // 100| 101-190| 191 - 200+
+console.log(total);  //? 9090
+
+
+
+
+//Todo:-------Layered Discount-------

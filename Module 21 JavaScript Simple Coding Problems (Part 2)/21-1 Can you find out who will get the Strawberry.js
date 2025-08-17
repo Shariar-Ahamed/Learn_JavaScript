@@ -1,4 +1,4 @@
-//* Can you find out who will get the Strawberry? */
+//NOTE: Can you find out who will get the Strawberry? //
 
 //Todo: Max
 //Todo:------Using if else------
@@ -50,7 +50,7 @@ else {
 }
 
 
-//* Using funcation:
+//Todo:-------Using funcation -------
 function maxOfThree (num1, num2, num3) {
     if (num1 > num2 && num1 > num3){
         console.log("jim is the ultimate boss: ");
