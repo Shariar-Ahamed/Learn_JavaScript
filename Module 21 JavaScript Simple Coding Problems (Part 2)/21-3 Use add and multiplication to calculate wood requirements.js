@@ -1,4 +1,4 @@
-//* Use add and multiplication to calculate wood requirements */
+//NOTE: add and multiplication to calculate wood requirements */
 
 //! ---Function interesting example---
 
