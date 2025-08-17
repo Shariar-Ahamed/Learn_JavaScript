@@ -1,4 +1,4 @@
-//* Find the cheapest phone from an array of phone objects */
+//NOTE: Find the cheapest phone from an array of phone objects
 
 
 //Todo:------Number------
