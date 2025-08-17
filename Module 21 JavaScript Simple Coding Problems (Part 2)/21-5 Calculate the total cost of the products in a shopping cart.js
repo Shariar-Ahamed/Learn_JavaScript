@@ -1,4 +1,4 @@
-//* Calculate the total cost of the products in a shopping cart */
+//NOTE: Calculate the total cost of the products in a shopping cart
 
 
 //Todo:------Total shoppoing Sum:------
